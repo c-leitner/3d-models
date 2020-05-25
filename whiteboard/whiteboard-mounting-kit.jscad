@@ -37,5 +37,5 @@ function main (params) {
          cube({size: [params.bh+2,params.width,32],center: [false, true, false]}).translate([8.8,0,0]),
          union(screwout).translate([8.8,0,14])
          )
-    );
+    ).rotateX(90).translate([0,0,params.width/2]);
 }
