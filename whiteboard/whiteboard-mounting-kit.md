@@ -1,5 +1,5 @@
 # Whiteboard Mounting Kit 
-Designed for 12mm thick whiteboard. All parameters can be changed at https://openjscad.org.
+Designed for 12mm thick whiteboard. All parameters can be changed at https://openjscad.org. SPAX 4.5x60 Wood Screws were used to mount it.
 ## Instructions
 1. Check the size of your whiteboard and its rails
 2. If necessary, adjust 3d model
